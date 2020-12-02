@@ -1,0 +1,63 @@
+body,
+html{
+	width: 100%;
+	height: 100%
+}
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	background-image: url(https://media.wsimag.com/attachments/e88a88600d9143d8c28ff862ea631afac44bdfb8/store/fill/1090/613/1836d216fed7567def916f30968bd191d2c32a384bbb3f153527368f2ac0/Startup.jpg);
+}
+.col-lg-10{
+	margin-top: 280px;
+}
+
+hr{
+	max-width: 65px;
+	max-height: 3px;
+	border-color: #F05F44;
+}
+
+ .faded{
+ 	color: rgba(255 255 255 0.8);
+  
+ }
+
+ .header{
+ 	background-position: center;
+ 	background-size: cover;
+ 	height: 100%;
+ }
+
+ header.startup hr{
+ 	margin-top: 200px;
+ 	margin-bottom: 30px;
+ }
+
+ header.startup h1{
+ 	font-size: 2rem;
+ 	
+ }
+
+ .btn{
+ 	font-weight: 700;
+ 	text-transform: uppercase;
+ 	border-radius: 300px;
+ 	font-family: 'Montserrat', sans-serif;
+ 	
+
+ }
+
+ .btn-xl{
+ 	padding: 1rem 2rem;
+ }
+
+ .btn-warning{
+ 	background-color: #F05F44;
+    border-color: #F05F44; 
+ }
+
+ .btn-warning:hover{
+ 	background-color: yellow;
+    border-color: #ee4b08; 
+ }
